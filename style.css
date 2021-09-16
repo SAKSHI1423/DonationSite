@@ -1,0 +1,30 @@
+.navbar-brand{
+    
+    padding-left: 2%;
+}
+.bg-dark{
+    background-color:#41464b!important;
+}
+.w-100{
+    height: 50%;
+    max-width: 100%;
+}                   
+a.navbar-brand{
+    padding-left:3px;
+}
+.navbar-nav > li > a{
+    width: 100%;
+    height: 100%;
+    color: rgba(104, 91, 91, 0.158);
+}
+.navbar-nav > li > form{
+    text-align: center;
+}
+.container {
+    position: -webkit-sticky;
+    position: sticky;
+    top:50px;
+    background-color: rgb(108, 167, 223);
+    padding: 30px;
+    font-size: 20px;
+}
